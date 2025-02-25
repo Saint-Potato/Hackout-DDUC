@@ -1,7 +1,7 @@
 import requests
 
 url = "http://209.38.120.5:8000/predict/"
-file_path = "test_image.jpg"
+file_path = "images/test_image.jpg"
 
 with open(file_path, "rb") as img:
     files = {"file": img}
