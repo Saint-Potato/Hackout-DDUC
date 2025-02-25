@@ -1,0 +1,1097 @@
+{
+    "plants": [
+        {
+            "common_name": "Aloevera",
+            "scientific_name": "Aloe vera",
+            "medicinal_uses": [
+                "Topical treatment for burns and skin conditions",
+                "Oral consumption for digestive issues"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Native to Arabian Peninsula",
+                "Naturalized in tropical and subtropical regions worldwide"
+            ]
+        },
+        {
+            "common_name": "Amla",
+            "scientific_name": "Phyllanthus emblica",
+            "medicinal_uses": [
+                "Rich source of Vitamin C",
+                "Used in Ayurvedic medicine for its antioxidant properties"
+            ],
+            "conservation_status": "Least Concern",
+            "geographic_distribution": [
+                "Native to India",
+                "Also found in Southeast Asia and China"
+            ]
+        },
+        {
+            "common_name": "Neem",
+            "scientific_name": "Azadirachta indica",
+            "medicinal_uses": [
+                "Antibacterial and antifungal properties",
+                "Used in traditional medicine for skin disorders and as a natural pesticide"
+            ],
+            "conservation_status": "Least Concern",
+            "geographic_distribution": [
+                "Native to Indian subcontinent",
+                "Introduced to Africa, the Americas, Australia, and Southeast Asia"
+            ]
+        },
+        {
+            "common_name": "Ashoka",
+            "scientific_name": "Saraca asoca",
+            "medicinal_uses": [
+                "Treatment of gynecological disorders such as menorrhagia and dysmenorrhea",
+                "Management of skin conditions and inflammation",
+                "Support for digestive health"
+            ],
+            "conservation_status": "Vulnerable",
+            "geographic_distribution": [
+                "Native to the Indian subcontinent, including India, Nepal, Sri Lanka, and Myanmar",
+                "Found in the central and eastern Himalayas, Western Ghats, and northeastern regions of India"
+            ]
+        },
+        {
+            "common_name": "Camphor",
+            "scientific_name": "Cinnamomum camphora",
+            "medicinal_uses": [
+                "Relief from coughs and respiratory issues",
+                "Topical application for pain relief and inflammation",
+                "Antiseptic properties for skin ailments"
+            ],
+            "conservation_status": "Least Concern",
+            "geographic_distribution": [
+                "Native to China, Taiwan, Japan, Korea, and Vietnam",
+                "Cultivated in various parts of India and Sri Lanka"
+            ]
+        },
+        {
+            "common_name": "Kamakasturi",
+            "scientific_name": "Ocimum tenuiflorum",
+            "medicinal_uses": [
+                "Enhancement of respiratory health",
+                "Reduction of stress and anxiety",
+                "Support for immune function"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Native to the Indian subcontinent",
+                "Widely cultivated throughout Southeast Asia"
+            ]
+        },
+        {
+            "common_name": "Kepala",
+            "scientific_name": "Cocos nucifera",
+            "medicinal_uses": [
+                "Hydration and electrolyte balance",
+                "Support for skin health and wound healing",
+                "Antimicrobial properties"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Widely distributed across tropical regions worldwide",
+                "Commonly found in coastal areas of India, Southeast Asia, and the Pacific Islands"
+            ]
+        },
+        {
+            "common_name": "Tecoma",
+            "scientific_name": "Tecoma stans",
+            "medicinal_uses": [
+                "Traditionally used for treating diabetes and digestive issues",
+                "Employed as a diuretic and vermifuge",
+                "Utilized for its antimicrobial and anti-inflammatory properties"
+            ],
+            "conservation_status": "Least Concern",
+            "geographic_distribution": [
+                "Native to tropical and subtropical regions of the Americas, including the West Indies, Mexico, and Peru",
+                "Introduced and naturalized in various countries worldwide, often considered invasive in some regions"
+            ]
+        },
+        {
+            "common_name": "Thumbe",
+            "scientific_name": "Leucas aspera",
+            "medicinal_uses": [
+                "Traditionally used to treat skin infections and wounds",
+                "Employed in managing respiratory ailments like coughs and colds",
+                "Utilized for its antipyretic and insecticidal properties"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Commonly found throughout India and the Philippines",
+                "Also present in Mauritius, Réunion Island, and Java"
+            ]
+        },
+        {
+            "common_name": "Tomato",
+            "scientific_name": "Solanum lycopersicum",
+            "medicinal_uses": [
+                "Rich source of antioxidants like lycopene, beneficial for heart health",
+                "Supports skin health and may have anti-cancer properties",
+                "Contains vitamins and minerals that aid in overall nutrition"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Native to western South America and Central America",
+                "Cultivated worldwide in temperate and tropical regions"
+            ]
+        },
+        {
+            "common_name": "Tulsi",
+            "scientific_name": "Ocimum sanctum",
+            "medicinal_uses": [
+                "Enhances respiratory health and relieves symptoms of asthma",
+                "Reduces stress and anxiety due to adaptogenic properties",
+                "Supports immune function and exhibits antimicrobial activity"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Native to the Indian subcontinent",
+                "Widely cultivated throughout Southeast Asia"
+            ]
+        },
+        {
+            "common_name": "Turmeric",
+            "scientific_name": "Curcuma longa",
+            "medicinal_uses": [
+                "Possesses anti-inflammatory and antioxidant properties",
+                "Supports joint health and alleviates symptoms of arthritis",
+                "Aids in digestion and liver function"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Native to South Asia, particularly India",
+                "Cultivated in tropical and subtropical regions worldwide"
+            ]
+        },
+        {
+            "common_name": "Sapota",
+            "scientific_name": "Manilkara zapota",
+            "medicinal_uses": [
+                "Rich in antioxidants and vitamin C, boosting immunity",
+                "Used as a natural remedy for diarrhea and cough relief"
+            ],
+            "conservation_status": "Least Concern",
+            "geographic_distribution": [
+                "Native to Central America, Mexico, and the Caribbean",
+                "Widely cultivated in India, Southeast Asia, and tropical regions"
+            ]
+        },
+        {
+            "common_name": "Seethaashoka",
+            "scientific_name": "Saraca asoca",
+            "medicinal_uses": [
+                "Used in Ayurveda for menstrual disorders and uterine health",
+                "Has anti-inflammatory and analgesic properties"
+            ],
+            "conservation_status": "Vulnerable",
+            "geographic_distribution": [
+                "Native to the Indian subcontinent",
+                "Found in tropical and subtropical forests of South Asia"
+            ]
+        },
+        {
+            "common_name": "Seethapala",
+            "scientific_name": "Annona squamosa",
+            "medicinal_uses": [
+                "Used in traditional medicine to treat dysentery and fever",
+                "Leaves have anti-diabetic and anti-inflammatory properties"
+            ],
+            "conservation_status": "Least Concern",
+            "geographic_distribution": [
+                "Native to tropical Americas and West Indies",
+                "Widely grown in India, Southeast Asia, and tropical regions"
+            ]
+        },
+        {
+            "common_name": "Spinach",
+            "scientific_name": "Spinacia oleracea",
+            "medicinal_uses": [
+                "Rich in iron and vitamins A, C, and K",
+                "Supports heart health and improves digestion"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Believed to have originated in Persia (modern-day Iran)",
+                "Widely cultivated worldwide in temperate regions"
+            ]
+        },
+        {
+            "common_name": "Tamarind",
+            "scientific_name": "Tamarindus indica",
+            "medicinal_uses": [
+                "Used for digestive health and as a natural laxative",
+                "Rich in antioxidants and beneficial for heart health"
+            ],
+            "conservation_status": "Least Concern",
+            "geographic_distribution": [
+                "Native to tropical Africa",
+                "Widely grown in India, Southeast Asia, and South America"
+            ]
+        },
+        {
+            "common_name": "Taro",
+            "scientific_name": "Colocasia esculenta",
+            "medicinal_uses": [
+                "Rich in dietary fiber, aiding digestion",
+                "Used as a carbohydrate source and beneficial for diabetes management"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Believed to have originated in Southeast Asia",
+                "Cultivated in tropical and subtropical regions worldwide"
+            ]
+        },
+        {
+            "common_name": "Pepper",
+            "scientific_name": "Capsicum annuum",
+            "medicinal_uses": [
+                "Rich in vitamins A and C, supporting immune function",
+                "Contains capsaicin, which has analgesic properties",
+                "May aid in metabolism and weight management"
+            ],
+            "conservation_status": "Least Concern",
+            "geographic_distribution": [
+                "Native to the Americas, particularly Mexico and Central America",
+                "Cultivated worldwide in various climates"
+            ]
+        },
+        {
+            "common_name": "Pomegranate",
+            "scientific_name": "Punica granatum",
+            "medicinal_uses": [
+                "Rich in antioxidants, supporting heart health",
+                "May have anti-inflammatory properties",
+                "Traditionally used to treat digestive disorders"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Native to the region from Iran to northern India",
+                "Cultivated in Mediterranean regions and parts of the Americas"
+            ]
+        },
+        {
+            "common_name": "Pumpkin",
+            "scientific_name": "Cucurbita pepo",
+            "medicinal_uses": [
+                "High in fiber, aiding digestive health",
+                "Rich in beta-carotene, supporting vision and immune function",
+                "Seeds contain compounds beneficial for prostate health"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Native to North America",
+                "Cultivated globally in temperate and tropical regions"
+            ]
+        },
+        {
+            "common_name": "Radish",
+            "scientific_name": "Raphanus sativus",
+            "medicinal_uses": [
+                "Supports digestive health",
+                "May help in detoxification and liver function",
+                "Contains compounds with potential antimicrobial properties"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Believed to have originated in Southeast Asia or the Mediterranean",
+                "Cultivated worldwide as a root vegetable"
+            ]
+        },
+        {
+            "common_name": "Rose",
+            "scientific_name": "Rosa spp.",
+            "medicinal_uses": [
+                "Rose hips are rich in vitamin C, supporting immune health",
+                "Rose oil is used in aromatherapy for stress relief",
+                "Traditionally used to treat skin conditions"
+            ],
+            "conservation_status": "Varies by species",
+            "geographic_distribution": [
+                "Native to various regions across the Northern Hemisphere",
+                "Cultivated worldwide for ornamental and medicinal purposes"
+            ]
+        },
+        {
+            "common_name": "Sampige",
+            "scientific_name": "Michelia champaca",
+            "medicinal_uses": [
+                "Traditionally used to treat anxiety and vertigo",
+                "Employed in managing inflammation and rheumatism",
+                "Flowers used in aromatherapy for relaxation"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Native to South and Southeast Asia",
+                "Found in tropical and subtropical forests"
+            ]
+        },
+        {
+            "common_name": "Nerale",
+            "scientific_name": "Syzygium cumini",
+            "medicinal_uses": [
+                "Used in traditional medicine for diabetes management",
+                "Rich in antioxidants and beneficial for digestive health"
+            ],
+            "conservation_status": "Least Concern",
+            "geographic_distribution": [
+                "Native to the Indian subcontinent and Southeast Asia",
+                "Also found in tropical and subtropical regions worldwide"
+            ]
+        },
+        {
+            "common_name": "Nooni",
+            "scientific_name": "Morinda citrifolia",
+            "medicinal_uses": [
+                "Used for boosting immunity and reducing inflammation",
+                "Traditionally used for treating infections and joint pain"
+            ],
+            "conservation_status": "Least Concern",
+            "geographic_distribution": [
+                "Native to Southeast Asia and Australia",
+                "Naturalized in tropical regions worldwide"
+            ]
+        },
+        {
+            "common_name": "Onion",
+            "scientific_name": "Allium cepa",
+            "medicinal_uses": [
+                "Has anti-inflammatory and antibacterial properties",
+                "Rich in antioxidants and supports heart health"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Believed to have originated in Central Asia",
+                "Cultivated worldwide in temperate and tropical regions"
+            ]
+        },
+        {
+            "common_name": "Padri",
+            "scientific_name": "Cleome gynandra",
+            "medicinal_uses": [
+                "Rich in vitamins and used to treat eye disorders",
+                "Traditionally used for inflammation and skin diseases"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Native to tropical and subtropical regions of Africa and Asia",
+                "Found in India, Southeast Asia, and parts of Africa"
+            ]
+        },
+        {
+            "common_name": "Palak (Spinach)",
+            "scientific_name": "Spinacia oleracea",
+            "medicinal_uses": [
+                "Rich in iron and vitamins A, C, and K",
+                "Supports cardiovascular health and improves digestion"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Believed to have originated in Persia (modern-day Iran)",
+                "Widely cultivated worldwide in temperate regions"
+            ]
+        },
+        {
+            "common_name": "Papaya",
+            "scientific_name": "Carica papaya",
+            "medicinal_uses": [
+                "Used for digestive health and as a natural remedy for constipation",
+                "Rich in papain enzyme, beneficial for skin and inflammation"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Native to tropical regions of the Americas",
+                "Widely grown in India, Southeast Asia, and Africa"
+            ]
+        },
+        {
+            "common_name": "Parijatha",
+            "scientific_name": "Nyctanthes arbor-tristis",
+            "medicinal_uses": [
+                "Used in Ayurveda for treating arthritis and fever",
+                "Has anti-inflammatory and antibacterial properties"
+            ],
+            "conservation_status": "Least Concern",
+            "geographic_distribution": [
+                "Native to South Asia and Southeast Asia",
+                "Found in India, Nepal, and parts of Thailand"
+            ]
+        },
+        {
+            "common_name": "Pea",
+            "scientific_name": "Pisum sativum",
+            "medicinal_uses": [
+                "Rich in protein and dietary fiber, supporting digestion",
+                "Good source of vitamins A, C, and K for overall health"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Believed to have originated in the Mediterranean and Middle East",
+                "Widely cultivated in temperate regions worldwide"
+            ]
+        },
+        {
+            "common_name": "Kambajala",
+            "scientific_name": "Not Available",
+            "medicinal_uses": [
+                "Information not available"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Information not available"
+            ]
+        },
+        {
+            "common_name": "Kasambruga",
+            "scientific_name": "Not Available",
+            "medicinal_uses": [
+                "Information not available"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Information not available"
+            ]
+        },
+        {
+            "common_name": "Kohlrabi",
+            "scientific_name": "Brassica oleracea var. gongylodes",
+            "medicinal_uses": [
+                "Rich in vitamin C, supporting immune health",
+                "High in fiber, aiding digestion",
+                "Contains antioxidants that may reduce inflammation"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Native to Europe",
+                "Cultivated worldwide in temperate regions"
+            ]
+        },
+        {
+            "common_name": "Lantana",
+            "scientific_name": "Lantana camara",
+            "medicinal_uses": [
+                "Traditionally used for treating skin itches and as an antiseptic for wounds",
+                "Employed in folk medicine for respiratory issues",
+                "Leaves used in herbal teas for fever reduction"
+            ],
+            "conservation_status": "Least Concern",
+            "geographic_distribution": [
+                "Native to the American tropics",
+                "Naturalized in tropical and subtropical regions worldwide"
+            ]
+        },
+        {
+            "common_name": "Lemon",
+            "scientific_name": "Citrus limon",
+            "medicinal_uses": [
+                "Rich source of vitamin C, boosting immunity",
+                "Aids in digestion and detoxification",
+                "Used in traditional remedies for sore throat and skin care"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Native to Asia",
+                "Cultivated worldwide in suitable climates"
+            ]
+        },
+        {
+            "common_name": "Lemongrass",
+            "scientific_name": "Cymbopogon citratus",
+            "medicinal_uses": [
+                "Used in herbal teas for digestive issues",
+                "Possesses antimicrobial and anti-inflammatory properties",
+                "Aromatherapy applications for stress relief"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Native to tropical regions of Asia",
+                "Cultivated in tropical and subtropical regions worldwide"
+            ]
+        },
+        {
+            "common_name": "Malabar Nut",
+            "scientific_name": "Justicia adhatoda",
+            "medicinal_uses": [
+                "Traditionally used to treat respiratory ailments like asthma and bronchitis",
+                "Employed as an expectorant to clear mucus",
+                "Leaves used in herbal remedies for cough and colds"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Native to the Indian subcontinent",
+                "Found in tropical regions of Southeast Asia"
+            ]
+        },
+        {
+            "common_name": "Malabar Spinach",
+            "scientific_name": "Basella alba",
+            "medicinal_uses": [
+                "Rich in vitamins A and C, supporting vision and immune health",
+                "High in iron, beneficial for anemia",
+                "Used in traditional medicine as a mild laxative"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Native to tropical Asia and Africa",
+                "Cultivated in tropical regions worldwide"
+            ]
+        },
+        {
+            "common_name": "Mango",
+            "scientific_name": "Mangifera indica",
+            "medicinal_uses": [
+                "Rich in vitamins A and C, supporting immune function",
+                "Contains antioxidants that may protect against cancer",
+                "Used in traditional medicine to aid digestion"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Native to South Asia",
+                "Cultivated in tropical and subtropical regions worldwide"
+            ]
+        },
+        {
+            "common_name": "Marigold",
+            "scientific_name": "Tagetes erecta",
+            "medicinal_uses": [
+                "Used in traditional medicine for wound healing",
+                "Possesses anti-inflammatory properties",
+                "Employed in herbal remedies for digestive issues"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Native to Mexico and Central America",
+                "Cultivated worldwide as an ornamental plant"
+            ]
+        },
+        {
+            "common_name": "Mint",
+            "scientific_name": "Mentha spp.",
+            "medicinal_uses": [
+                "Aids in digestion and relieves indigestion",
+                "Used in aromatherapy for stress relief",
+                "Possesses antimicrobial properties"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Native to Europe, Asia, and North America",
+                "Cultivated worldwide in various climates"
+            ]
+        },
+        {
+            "common_name": "Neem",
+            "scientific_name": "Azadirachta indica",
+            "medicinal_uses": [
+                "Used in traditional medicine for skin conditions",
+                "Possesses antifungal and antibacterial properties",
+                "Employed as a natural pesticide"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Native to the Indian subcontinent",
+                "Cultivated in tropical and subtropical regions worldwide"
+            ]
+        },
+        {
+            "common_name": "Nelavembu",
+            "scientific_name": "Andrographis paniculata",
+            "medicinal_uses": [
+                "Traditionally used to treat fevers, including dengue and malaria",
+                "Possesses anti-inflammatory and antioxidant properties",
+                "Employed in herbal remedies for digestive issues"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Native to South Asian countries, including India and Sri Lanka",
+                "Found in tropical and subtropical regions of Asia"
+            ]
+        },
+        {
+            "common_name": "Eucalyptus",
+            "scientific_name": "Eucalyptus spp.",
+            "medicinal_uses": [
+                "Used in aromatherapy for respiratory relief",
+                "Contains antiseptic properties, used in treating wounds"
+            ],
+            "conservation_status": "Varies by species",
+            "geographic_distribution": [
+                "Native to Australia",
+                "Cultivated worldwide in tropical and temperate regions"
+            ]
+        },
+        {
+            "common_name": "Ganigale",
+            "scientific_name": "Clerodendrum inerme",
+            "medicinal_uses": [
+                "Traditionally used for skin diseases and inflammation",
+                "Leaves used in Ayurveda for pain relief"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Native to tropical Asia",
+                "Found in coastal regions of India and Southeast Asia"
+            ]
+        },
+        {
+            "common_name": "Ganike",
+            "scientific_name": "Clerodendrum serratum",
+            "medicinal_uses": [
+                "Used in Ayurveda for respiratory diseases and cough",
+                "Has anti-inflammatory and analgesic properties"
+            ],
+            "conservation_status": "Least Concern",
+            "geographic_distribution": [
+                "Native to India and Southeast Asia",
+                "Found in tropical and subtropical forests"
+            ]
+        },
+        {
+            "common_name": "Gasagase",
+            "scientific_name": "Papaver somniferum",
+            "medicinal_uses": [
+                "Used for pain relief and sedation",
+                "Seeds are rich in nutrients and used in cooking"
+            ],
+            "conservation_status": "Cultivated",
+            "geographic_distribution": [
+                "Native to the Mediterranean region",
+                "Cultivated worldwide, especially in India and Turkey"
+            ]
+        },
+        {
+            "common_name": "Ginger",
+            "scientific_name": "Zingiber officinale",
+            "medicinal_uses": [
+                "Used to treat nausea, indigestion, and colds",
+                "Has anti-inflammatory and antioxidant properties"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Believed to have originated in Southeast Asia",
+                "Cultivated in tropical and subtropical regions worldwide"
+            ]
+        },
+        {
+            "common_name": "Globe Amaranth",
+            "scientific_name": "Gomphrena globosa",
+            "medicinal_uses": [
+                "Used in herbal tea for respiratory and digestive benefits",
+                "Rich in antioxidants and supports immune health"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Native to Central and South America",
+                "Widely cultivated in tropical and subtropical regions"
+            ]
+        },
+        {
+            "common_name": "Guava",
+            "scientific_name": "Psidium guajava",
+            "medicinal_uses": [
+                "Rich in vitamin C, boosts immunity",
+                "Used for treating diarrhea and digestive disorders"
+            ],
+            "conservation_status": "Least Concern",
+            "geographic_distribution": [
+                "Native to Central America",
+                "Widely cultivated in tropical and subtropical regions"
+            ]
+        },
+        {
+            "common_name": "Henna",
+            "scientific_name": "Lawsonia inermis",
+            "medicinal_uses": [
+                "Used for natural hair dye and skin decoration",
+                "Has antifungal and cooling properties"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Native to North Africa and South Asia",
+                "Cultivated in arid and tropical regions"
+            ]
+        },
+        {
+            "common_name": "Hibiscus",
+            "scientific_name": "Hibiscus rosa-sinensis",
+            "medicinal_uses": [
+                "Used for hair care and promoting scalp health",
+                "Tea made from flowers helps lower blood pressure"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Native to East Asia",
+                "Cultivated worldwide in tropical and subtropical regions"
+            ]
+        },
+        {
+            "common_name": "Honge",
+            "scientific_name": "Pongamia pinnata",
+            "medicinal_uses": [
+                "Used in traditional medicine for skin diseases",
+                "Seeds yield oil used as biofuel and insect repellent"
+            ],
+            "conservation_status": "Least Concern",
+            "geographic_distribution": [
+                "Native to India and Southeast Asia",
+                "Found in tropical and coastal regions"
+            ]
+        },
+        {
+            "common_name": "Insulin Plant",
+            "scientific_name": "Costus igneus",
+            "medicinal_uses": [
+                "Traditionally used to lower blood sugar levels",
+                "Leaves are consumed for diabetes management"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Native to Southeast Asia",
+                "Cultivated in India and tropical regions"
+            ]
+        },
+        {
+            "common_name": "Jackfruit",
+            "scientific_name": "Artocarpus heterophyllus",
+            "medicinal_uses": [
+                "Rich in fiber and vitamins, supports digestion",
+                "Seeds are used for boosting immunity"
+            ],
+            "conservation_status": "Least Concern",
+            "geographic_distribution": [
+                "Native to South and Southeast Asia",
+                "Cultivated in tropical regions worldwide"
+            ]
+        },
+        {
+            "common_name": "Jasmine",
+            "scientific_name": "Jasminum sambac",
+            "medicinal_uses": [
+                "Used in aromatherapy for stress relief",
+                "Tea made from flowers is beneficial for digestion"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Native to South and Southeast Asia",
+                "Cultivated worldwide in warm climates"
+            ]
+        },
+        {
+            "common_name": "Castor",
+            "scientific_name": "Ricinus communis",
+            "medicinal_uses": [
+                "Castor oil is used as a strong laxative",
+                "Traditionally used to alleviate constipation",
+                "Employed in Ayurvedic medicine for various preparations"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Native to the southeastern Mediterranean Basin, Eastern Africa, and India",
+                "Cultivated worldwide in tropical and subtropical regions"
+            ]
+        },
+        {
+            "common_name": "Catharanthus",
+            "scientific_name": "Catharanthus roseus",
+            "medicinal_uses": [
+                "Source of alkaloids used in chemotherapy drugs for cancer treatment",
+                "Traditionally used to manage diabetes and hypertension",
+                "Employed in folk medicine for its antimicrobial properties"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Native to Madagascar",
+                "Naturalized in tropical and subtropical regions worldwide"
+            ]
+        },
+        {
+            "common_name": "Chakte",
+            "scientific_name": "Sickingia salvadorensis",
+            "medicinal_uses": [
+                "Wood used in traditional crafts and carvings",
+                "No significant medicinal uses documented"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Native to Central America, particularly El Salvador and Honduras"
+            ]
+        },
+        {
+            "common_name": "Chili",
+            "scientific_name": "Capsicum annuum",
+            "medicinal_uses": [
+                "Contains capsaicin, which has analgesic properties",
+                "Used to alleviate pain in topical applications",
+                "May aid in boosting metabolism and weight management"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Native to the Americas",
+                "Cultivated worldwide in various climates"
+            ]
+        },
+        {
+            "common_name": "Citron Lime (Herelikai)",
+            "scientific_name": "Citrus medica",
+            "medicinal_uses": [
+                "Rich in vitamin C, supporting immune health",
+                "Traditionally used to treat digestive issues",
+                "Employed in managing scurvy and other vitamin deficiencies"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Native to Southeast Asia",
+                "Cultivated in tropical and subtropical regions worldwide"
+            ]
+        },
+        {
+            "common_name": "Coffee",
+            "scientific_name": "Coffea arabica",
+            "medicinal_uses": [
+                "Caffeine acts as a central nervous system stimulant",
+                "May improve mental alertness and cognitive function",
+                "Contains antioxidants beneficial for health"
+            ],
+            "conservation_status": "Least Concern",
+            "geographic_distribution": [
+                "Native to Ethiopia",
+                "Cultivated in tropical regions worldwide, notably in Brazil, Vietnam, and Colombia"
+            ]
+        },
+        {
+            "common_name": "Common Rue (Naagdalli)",
+            "scientific_name": "Ruta graveolens",
+            "medicinal_uses": [
+                "Traditionally used to improve digestion and appetite",
+                "Employed as an insect repellent",
+                "Used in folk medicine to relieve earaches and eye strain"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Native to the Balkan Peninsula",
+                "Cultivated in gardens worldwide for medicinal and ornamental purposes"
+            ]
+        },
+        {
+            "common_name": "Coriander",
+            "scientific_name": "Coriandrum sativum",
+            "medicinal_uses": [
+                "Aids in digestion and relieves gastrointestinal discomfort",
+                "Possesses antimicrobial properties",
+                "Used to manage blood sugar levels in traditional medicine"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Native to regions spanning from Southern Europe to Southwestern Asia",
+                "Cultivated worldwide in temperate and tropical regions"
+            ]
+        },
+        {
+            "common_name": "Curry Leaf",
+            "scientific_name": "Murraya koenigii",
+            "medicinal_uses": [
+                "Rich in antioxidants, supporting overall health",
+                "Traditionally used to manage diabetes and blood sugar levels",
+                "Employed to treat gastrointestinal issues like diarrhea and dysentery"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Native to the Indian subcontinent",
+                "Cultivated in tropical and subtropical regions, especially in India and Sri Lanka"
+            ]
+        },
+        {
+            "common_name": "Doddapatre",
+            "scientific_name": "Plectranthus amboinicus",
+            "medicinal_uses": [
+                "Traditionally used to treat respiratory issues like coughs and colds",
+                "Employed to alleviate digestive problems",
+                "Applied topically for skin conditions and insect bites"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Native to Southern and Eastern Africa",
+                "Widely cultivated in India and Southeast Asia"
+            ]
+        },
+        {
+            "common_name": "Drumstick",
+            "scientific_name": "Moringa oleifera",
+            "medicinal_uses": [
+                "Leaves are rich in vitamins and minerals, supporting nutrition",
+                "Possesses anti-inflammatory and antioxidant properties",
+                "Used to manage blood sugar levels and support heart health"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Native to the Indian subcontinent",
+                "Cultivated in tropical and subtropical regions worldwide"
+            ]
+        },
+        {
+            "common_name": "Ekka",
+            "scientific_name": "Calotropis gigantea",
+            "medicinal_uses": [
+                "Latex used traditionally to treat skin infections and wounds",
+                "Employed in managing respiratory issues like asthma",
+                "Used as a purgative and to induce vomiting in traditional medicine"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Native to South Asia and Southeast Asia",
+                "Found in dry regions and along roadsides in tropical areas"
+            ]
+        },
+        {
+            "common_name": "Amruthaballi",
+            "scientific_name": "Tinospora cordifolia",
+            "medicinal_uses": [
+                "Enhances immune function",
+                "Used in managing fever and infections",
+                "Supports liver health and detoxification"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Native to tropical regions of India, Myanmar, and Sri Lanka",
+                "Found in deciduous and dry forests"
+            ]
+        },
+        {
+            "common_name": "Arali",
+            "scientific_name": "Nerium oleander",
+            "medicinal_uses": [
+                "Traditionally used for cardiac ailments",
+                "Applied topically for skin conditions",
+                "Contains compounds with potential anticancer properties"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Native to Mediterranean regions and Southeast Asia",
+                "Cultivated worldwide as an ornamental plant"
+            ]
+        },
+        {
+            "common_name": "Asthma Weed",
+            "scientific_name": "Euphorbia hirta",
+            "medicinal_uses": [
+                "Traditionally used to treat respiratory ailments like asthma and bronchitis",
+                "Employed as a diuretic and to manage gastrointestinal issues",
+                "Contains antimicrobial and anti-inflammatory properties"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Native to India and Australia",
+                "Found in tropical and subtropical regions worldwide"
+            ]
+        },
+        {
+            "common_name": "Badipala",
+            "scientific_name": "Not Available",
+            "medicinal_uses": [
+                "Information not available"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Information not available"
+            ]
+        },
+        {
+            "common_name": "Balloon Vine",
+            "scientific_name": "Cardiospermum halicacabum",
+            "medicinal_uses": [
+                "Used to treat joint pain and arthritis",
+                "Employed in managing skin disorders like eczema",
+                "Traditionally used for digestive issues"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Native to tropical and subtropical regions of Africa and Asia",
+                "Naturalized in various parts of the world, including the Americas"
+            ]
+        },
+        {
+            "common_name": "Bamboo",
+            "scientific_name": "Bambusoideae (subfamily)",
+            "medicinal_uses": [
+                "Young shoots used in traditional medicine for digestive health",
+                "Silica from bamboo stems supports bone health",
+                "Leaves employed in remedies for respiratory issues"
+            ],
+            "conservation_status": "Varies by species",
+            "geographic_distribution": [
+                "Native to Asia, Africa, and the Americas",
+                "Found in diverse climates, from tropical to temperate regions"
+            ]
+        },
+        {
+            "common_name": "Beans",
+            "scientific_name": "Phaseolus vulgaris",
+            "medicinal_uses": [
+                "Rich source of protein and fiber, supporting heart health",
+                "Helps regulate blood sugar levels",
+                "Contains antioxidants that combat oxidative stress"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Native to Central and South America",
+                "Cultivated worldwide as a staple food crop"
+            ]
+        },
+        {
+            "common_name": "Betel",
+            "scientific_name": "Piper betle",
+            "medicinal_uses": [
+                "Leaves used as a stimulant and to freshen breath",
+                "Applied topically for wound healing",
+                "Employed in traditional remedies for cough and respiratory issues"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Native to Southeast Asia",
+                "Cultivated in tropical regions of Asia and the Pacific"
+            ]
+        },
+        {
+            "common_name": "Brahmi",
+            "scientific_name": "Bacopa monnieri",
+            "medicinal_uses": [
+                "Enhances cognitive function and memory",
+                "Used to reduce anxiety and stress",
+                "Possesses antioxidant properties"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Native to wetlands of Southern and Eastern India, Australia, Europe, Africa, Asia, and North and South America",
+                "Found in marshy areas and along riverbanks"
+            ]
+        },
+        {
+            "common_name": "Bhringraj",
+            "scientific_name": "Eclipta prostrata",
+            "medicinal_uses": [
+                "Promotes hair growth and combats hair loss",
+                "Used in liver disorders and detoxification",
+                "Possesses anti-inflammatory and antimicrobial properties"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Found in tropical and subtropical regions worldwide",
+                "Grows in moist, marshy areas"
+            ]
+        },
+        {
+            "common_name": "Caricature",
+            "scientific_name": "Graptophyllum pictum",
+            "medicinal_uses": [
+                "Leaves used traditionally to treat hemorrhoids",
+                "Employed in remedies for skin inflammations",
+                "Possesses antimicrobial properties"
+            ],
+            "conservation_status": "Not Evaluated",
+            "geographic_distribution": [
+                "Native to New Guinea",
+                "Cultivated in tropical regions as an ornamental plant"
+            ]
+        }
+    ]
+}
