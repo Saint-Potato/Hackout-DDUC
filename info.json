@@ -40,7 +40,7 @@
             ]
         },
         {
-            "common_name": "Ashoka",
+            "common_name": "ashoka",
             "scientific_name": "Saraca asoca",
             "medicinal_uses": [
                 "Treatment of gynecological disorders such as menorrhagia and dysmenorrhea",
@@ -54,7 +54,7 @@
             ]
         },
         {
-            "common_name": "Camphor",
+            "common_name": "camphor",
             "scientific_name": "Cinnamomum camphora",
             "medicinal_uses": [
                 "Relief from coughs and respiratory issues",
@@ -68,7 +68,7 @@
             ]
         },
         {
-            "common_name": "Kamakasturi",
+            "common_name": "kamakasturi",
             "scientific_name": "Ocimum tenuiflorum",
             "medicinal_uses": [
                 "Enhancement of respiratory health",
@@ -82,7 +82,7 @@
             ]
         },
         {
-            "common_name": "Kepala",
+            "common_name": "kepala",
             "scientific_name": "Cocos nucifera",
             "medicinal_uses": [
                 "Hydration and electrolyte balance",
@@ -205,7 +205,7 @@
             ]
         },
         {
-            "common_name": "Spinach",
+            "common_name": "Spinach1",
             "scientific_name": "Spinacia oleracea",
             "medicinal_uses": [
                 "Rich in iron and vitamins A, C, and K",
@@ -258,7 +258,7 @@
             ]
         },
         {
-            "common_name": "Pomegranate",
+            "common_name": "Pomoegranate",
             "scientific_name": "Punica granatum",
             "medicinal_uses": [
                 "Rich in antioxidants, supporting heart health",
@@ -286,7 +286,7 @@
             ]
         },
         {
-            "common_name": "Radish",
+            "common_name": "Raddish",
             "scientific_name": "Raphanus sativus",
             "medicinal_uses": [
                 "Supports digestive health",
@@ -380,7 +380,7 @@
             ]
         },
         {
-            "common_name": "Palak (Spinach)",
+            "common_name": "Palak(Spinach)",
             "scientific_name": "Spinacia oleracea",
             "medicinal_uses": [
                 "Rich in iron and vitamins A, C, and K",
@@ -510,7 +510,7 @@
             ]
         },
         {
-            "common_name": "Malabar Nut",
+            "common_name": "Malabar_Nut",
             "scientific_name": "Justicia adhatoda",
             "medicinal_uses": [
                 "Traditionally used to treat respiratory ailments like asthma and bronchitis",
@@ -524,7 +524,7 @@
             ]
         },
         {
-            "common_name": "Malabar Spinach",
+            "common_name": "Malabar_Spinach",
             "scientific_name": "Basella alba",
             "medicinal_uses": [
                 "Rich in vitamins A and C, supporting vision and immune health",
@@ -673,7 +673,7 @@
             ]
         },
         {
-            "common_name": "Globe Amaranth",
+            "common_name": "Globe Amarnath",
             "scientific_name": "Gomphrena globosa",
             "medicinal_uses": [
                 "Used in herbal tea for respiratory and digestive benefits",
@@ -738,7 +738,7 @@
             ]
         },
         {
-            "common_name": "Insulin Plant",
+            "common_name": "Insulin",
             "scientific_name": "Costus igneus",
             "medicinal_uses": [
                 "Traditionally used to lower blood sugar levels",
@@ -817,7 +817,7 @@
             ]
         },
         {
-            "common_name": "Chili",
+            "common_name": "Chilly",
             "scientific_name": "Capsicum annuum",
             "medicinal_uses": [
                 "Contains capsaicin, which has analgesic properties",
@@ -831,7 +831,7 @@
             ]
         },
         {
-            "common_name": "Citron Lime (Herelikai)",
+            "common_name": "Citron lime (herelikai)",
             "scientific_name": "Citrus medica",
             "medicinal_uses": [
                 "Rich in vitamin C, supporting immune health",
@@ -859,7 +859,7 @@
             ]
         },
         {
-            "common_name": "Common Rue (Naagdalli)",
+            "common_name": "Common rue(naagdalli)",
             "scientific_name": "Ruta graveolens",
             "medicinal_uses": [
                 "Traditionally used to improve digestion and appetite",
@@ -873,7 +873,7 @@
             ]
         },
         {
-            "common_name": "Coriander",
+            "common_name": "Coriender",
             "scientific_name": "Coriandrum sativum",
             "medicinal_uses": [
                 "Aids in digestion and relieves gastrointestinal discomfort",
@@ -887,7 +887,7 @@
             ]
         },
         {
-            "common_name": "Curry Leaf",
+            "common_name": "Curry",
             "scientific_name": "Murraya koenigii",
             "medicinal_uses": [
                 "Rich in antioxidants, supporting overall health",
@@ -901,7 +901,7 @@
             ]
         },
         {
-            "common_name": "Doddapatre",
+            "common_name": "Doddpathre",
             "scientific_name": "Plectranthus amboinicus",
             "medicinal_uses": [
                 "Traditionally used to treat respiratory issues like coughs and colds",
@@ -971,7 +971,7 @@
             ]
         },
         {
-            "common_name": "Asthma Weed",
+            "common_name": "Astma_weed",
             "scientific_name": "Euphorbia hirta",
             "medicinal_uses": [
                 "Traditionally used to treat respiratory ailments like asthma and bronchitis",
@@ -996,7 +996,7 @@
             ]
         },
         {
-            "common_name": "Balloon Vine",
+            "common_name": "Balloon_Vine",
             "scientific_name": "Cardiospermum halicacabum",
             "medicinal_uses": [
                 "Used to treat joint pain and arthritis",
@@ -1052,7 +1052,7 @@
             ]
         },
         {
-            "common_name": "Brahmi",
+            "common_name": "Bhrami",
             "scientific_name": "Bacopa monnieri",
             "medicinal_uses": [
                 "Enhances cognitive function and memory",
@@ -1066,7 +1066,7 @@
             ]
         },
         {
-            "common_name": "Bhringraj",
+            "common_name": "Bringaraja",
             "scientific_name": "Eclipta prostrata",
             "medicinal_uses": [
                 "Promotes hair growth and combats hair loss",
